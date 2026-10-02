@@ -15,5 +15,3 @@ MATH!
 <img width="1800" height="1169" alt="Screenshot 2026-10-02 at 02 37 53" src="https://github.com/user-attachments/assets/17eb5b0c-c278-4391-87c1-3e047164ea40" />
 
 ## PCB
-<img width="1800" height="1169" alt="Screenshot 2026-10-02 at 02 38 13" src="https://github.com/user-attachments/assets/bf6ca6c3-6830-4c17-ac2f-c8bf8c66863b" />
-
