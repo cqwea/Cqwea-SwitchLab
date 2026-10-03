@@ -16,3 +16,7 @@ MATH!
 
 ## PCB
 <img width="1800" height="1169" alt="Screenshot 2026-10-02 at 04 02 14" src="https://github.com/user-attachments/assets/c34b2e95-8783-4dd5-9e37-78c819494448" />
+
+## Aİ
+
+Hey ima be honest i used ai to debug and make the placeholder code
