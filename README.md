@@ -19,4 +19,4 @@ MATH!
 
 ## Aİ
 
-Hey ima be honest i used ai to debug and make the placeholder code
+Hey ima be honest i used ai to debug and make the placeholder code but the main code that ill srite when i got the device in hand is %100 hand written by me
