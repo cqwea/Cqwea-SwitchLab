@@ -3,7 +3,7 @@ title: "Cqwea SwitchLab"
 github: "https://github.com/cqwea/Cqwea-SwitchLab"
 description: "its a simple mechanical calculator and im building it cause any calculator on the market is either squishy and not great to press on or just too expensive for the price and I made my own simple and great and (hopefully) to make my workflow faster cause while designing and stuff I always tend to use them but since I dont own a calculator I thought this'll be a great time to build"
 created_at: "2026-10-01"
-total_time: "4h 18m"
+total_time: "8h 36m"
 ---
 
 # October 2, 2026: I did the complete design (oops)
@@ -48,3 +48,15 @@ for a second I remembered I used an autorouting system and finished half an hour
 Timelapse: https://lapse.hackclub.com/timelapse/rrHMXUq_ehvT
 
 **Total time spent: 24m**
+
+# October 29, 2026: i soldered the pcb and printed the case out and finished
+<!-- fabricate:entry 1540 -->
+
+So after a long time of waiting and making negotiation (pretty loooong talks later) I managed to get my pcb from customs and I didnt lose time and got to soldering and that soldering tip of mine that's oxidized more than the air gave me a hard time to solder (most likely that it saw my last 10 project) but I managed to do it but a little thing that I didnt know that diodes had polarity and some buttons work and some not and I cant desolder it cause of the tip again (probably have to buy a new one asap) than I managed to malt my headset then screwed my case and made the firmware in a matter of 4 hours final result, it works but because some of the buttons work I cant get it to have the cool features I wanted to do but nonothertheless I think it turned up great!
+
+![](https://fabricate.hackclub-assets.com/b608f9232b489dd7faa95779d175b37aaf5c789e498cb2eee644e632c30a96c8/image-jpeg/IMG_6090.jpg)
+![](https://fabricate.hackclub-assets.com/76d234e36f311195869281cf3eae0338ca060a4eecbc9f38cfb65e93db73647d/image-jpeg/IMG_6091.jpg)
+![](https://fabricate.hackclub-assets.com/ffe3f0cd8cf687ba1a9fec22b7a9efb5c23e59b1abc94aa02148c92c81fbd44e/image-jpeg/IMG_6092.jpg)
+![](https://fabricate.hackclub-assets.com/cae204179eb5730d7a46a8a685629fb8b907fcc7c17284365c5b9ade0e8ecffd/image-jpeg/IMG_6093.jpg)
+
+**Total time spent: 4h 18m**
