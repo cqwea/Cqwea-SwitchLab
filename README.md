@@ -21,7 +21,8 @@ MATH!
 
 ## PCB
 <img width="1800" height="1169" alt="Screenshot 2026-10-02 at 04 02 14" src="https://github.com/user-attachments/assets/c34b2e95-8783-4dd5-9e37-78c819494448" />
-![Uploading IMG_6102.jpg…]()
+<img width="3024" height="4032" alt="IMG_6102" src="https://github.com/user-attachments/assets/4e111006-7eb5-4d31-aabf-7915e78125c7" />
+
 
 ## Aİ
 
